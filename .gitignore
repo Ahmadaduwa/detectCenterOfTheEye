@@ -3,6 +3,12 @@
 /*.keras
 /*.joblib
 /*.h5
+/*.npy
 /*/*.keras
 /*/*.joblib
 /*/*.h5
+/*/*.npy
+/*/*/*.keras
+/*/*/*.joblib
+/*/*/*.h5
+/*/*/*.npy
