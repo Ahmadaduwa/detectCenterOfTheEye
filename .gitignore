@@ -1,5 +1,8 @@
 /.venv
-/*.keras
 /data
+/*.keras
 /*.joblib
 /*.h5
+/*/*.keras
+/*/*.joblib
+/*/*.h5
