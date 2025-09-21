@@ -1,4 +1,5 @@
 /.venv
-/best_cnn.keras
+/*.keras
 /data
-/feature_scaler.joblib
+/*.joblib
+/*.h5
