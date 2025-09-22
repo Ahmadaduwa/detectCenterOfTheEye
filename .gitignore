@@ -4,11 +4,17 @@
 /*.joblib
 /*.h5
 /*.npy
+/*.pt
+/*.onnx
 /*/*.keras
 /*/*.joblib
 /*/*.h5
 /*/*.npy
+/*/*.pt
+/*/*.onnx
 /*/*/*.keras
 /*/*/*.joblib
 /*/*/*.h5
 /*/*/*.npy
+/*/*/*.pt
+/*/*/*.onnx
