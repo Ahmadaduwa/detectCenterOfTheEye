@@ -18,3 +18,5 @@
 /*/*/*.npy
 /*/*/*.pt
 /*/*/*.onnx
+/*/__pycache__
+/.venv_new
